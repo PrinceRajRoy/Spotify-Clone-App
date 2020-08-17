@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The user must have a premium aacount, spotify doesn't allow playing songs without it, it can still show playlist and song info.
+## Live Demo - [https://spotify-clone-site.web.app/](https://spotify-clone-site.web.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
