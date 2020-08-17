@@ -1,5 +1,8 @@
 export const authURL = 'https://accounts.spotify.com/authorize';
-const redirectURL = 'http://localhost:3000/';
+
+/* Add your project url here as well as in spotify developers (https://developer.spotify.com/)*/
+const redirectURL = 'https://spotify-clone-site.web.app/';
+/* Add your clientId to .env */
 const clientID = process.env.REACT_APP_clientID;
 
 const scopes = [
