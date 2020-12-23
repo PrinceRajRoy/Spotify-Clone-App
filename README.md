@@ -1,4 +1,4 @@
-`A ReactJS App that uses the popular official Spotify API's which provides the all the Spotify user data including top playlist, currently playing song, play-pause, given the user must have Premium Spotify Account`
+`A ReactJS App that uses the popular official Spotify API's which provides the all the Spotify user data including top playlist, currently playing song, play-pause, given the user must have Premium Spotify Account. The data is presented using React Context API`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
